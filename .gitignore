@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+breakout.so
+breakout.dylib
+breakout.dll
+breakout.a
+breakout.lib
+breakout-test-*
+*.exe
+*.o
+*.obj
+*.lst

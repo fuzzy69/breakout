@@ -1,0 +1,16 @@
+{
+	"authors": [
+		"fuzzy69"
+	],
+	"name": "breakout",
+	"dependencies": {
+		"bindbc-sdl": "~>0.16.0"
+	  },
+	  "versions" : [
+		"BindSDL_Image",
+		"BindSDL_Timer",
+		"SDL_205",
+		"SDLImage205"
+	  ],
+	  "targetPath": "/mnt/ramdisk/bin"
+}
